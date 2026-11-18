@@ -1,0 +1,11 @@
+/.venv/
+/runtime/
+/dependencies/
+/fonts/
+__pycache__/
+*.py[cod]
+*.docx
+*.zip
+*.rar
+.env
+.env.*

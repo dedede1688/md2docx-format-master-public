@@ -1,0 +1,12 @@
+{
+  "header_text": "",
+  "margin_top": 2.0,
+  "margin_bottom": 2.0,
+  "margin_left": 2.5,
+  "margin_right": 2.5,
+  "body_font_size": 14,
+  "body_line_spacing": 1.5,
+  "generate_cover": true,
+  "generate_toc": false,
+  "max_image_width": 6.0
+}
